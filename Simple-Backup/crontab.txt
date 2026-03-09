@@ -1,0 +1,4 @@
+# Cron job for automated backups.
+# Modify the path below to reflect the actual location of your backup.sh script.
+# This entry runs the script every day at 2:00 AM.
+0 2 * * * /root/bash-scripting/backup.sh

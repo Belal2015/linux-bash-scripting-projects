@@ -1,0 +1,8 @@
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# Backup related files
+backup.log
